@@ -33,6 +33,7 @@ Run the Streamlit app:
 
 Open the provided URL (e.g., http://localhost:8501) in your browser.
 
+<img width="1279" height="738" alt="Screenshot 2025-08-14 132917" src="https://github.com/user-attachments/assets/564b5dba-ea84-4419-9f70-4f99c8cd584d" />
 
 
 ## Usage
